@@ -1,3 +1,5 @@
+# Vacui.dev Mandatory Open Source Licenses
+
 These licenses are designed to:
 
 1) Protect the ability for the original author (vacui.dev) to maintain full ownership and control over thier individual contributions to the project
@@ -5,7 +7,6 @@ These licenses are designed to:
   - Public, external contributors are encouraged to make their own public forks that retain the MOSL license, without granting full ownership to vacui.dev
     - Individual ownership rights are not granted to forks. Forked iterations must release under the strict MOSL license without any benefit of private ownership granted to anyone
     - Any pull request into the primary vacui.dev directory grants full license rights to vacui.dev for full private ownership of all contributions to vacui.dev
-    - 
 2) Make these tools, concepts, and processes publicly available to the open source community, in a way that
   - Restricts privatization of benefits from iterative development, or any research benefitting from this project in any way
   - Enforces mandatory open sharing and collaboration
